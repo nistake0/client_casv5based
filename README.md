@@ -1,0 +1,2 @@
+# client_casv5based
+casv5mockベースに新規クライントプロジェクト
